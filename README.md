@@ -1,7 +1,9 @@
 Примітка: Прошу звернути увагу на те, що process screen трохи підвисає, але запит виконується тому треба трохи почекати.
 # untitled3
 
-A new Flutter project.
+Це одне з багатьох тестових завдань, які я робив.
+
+Посилання на саме завдання - https://docs.google.com/document/d/124ynB9_PWPlB6jsolxKQRjsUvNHfAorBdW_X3XKnbC0/edit?usp=sharing
 
 ## Getting Started
 
